@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.transistorsoft.fetch</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PiipRent</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>iosamap</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>NSCameraUsageDescription</key>
+	<string>For upload or change profile picture</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We&apos;ll use the device precise location to track your job progress when you have started the Job from the App.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Some assignments require your location during working hours to be recorded!</string>
+	<key>Privacy - Location usage description</key>
+	<string>We&apos;ll use the device precise location to track your job progress when you have started the Job from the App.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>For upload or change profile picture</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Motion updates increase battery efficiency by intelligently toggling location-services when device is detected to be moving</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>
