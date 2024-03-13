@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4712844499",
+    "firebase_url": "https://r3sourcer.firebaseio.com",
+    "project_id": "r3sourcer",
+    "storage_bucket": "r3sourcer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4712844499:android:dbbcc5094ba928a3951826",
+        "android_client_info": {
+          "package_name": "com.piiprent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4712844499-20psq0890mhjla12vqrsctsaqpr8hq79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgI-QYGmXe3KbEiwlf4anizjL_JLK8ACM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4712844499-20psq0890mhjla12vqrsctsaqpr8hq79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
